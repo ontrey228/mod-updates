@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "products": {
+    "nerogram-ios": {
+      "name": "NeroGram",
+      "channels": {
+        "stable": {
+          "enabled": false,
+          "minimumSupportedBuild": 0,
+          "latest": {
+            "build": 59,
+            "version": "13.1",
+            "url": "https://t.me/iosmod",
+            "notes": ""
+          }
+        }
+      }
+    }
+  }
+}
