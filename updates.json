@@ -5,13 +5,13 @@
       "name": "NeroGram",
       "channels": {
         "stable": {
-          "enabled": false,
+          "enabled": true,
           "minimumSupportedBuild": 0,
           "latest": {
-            "build": 59,
+            "build": 61,
             "version": "13.1",
             "url": "https://t.me/iosmod",
-            "notes": "Тест обязательного обновления."
+            "notes": "Тест рекомендации обновления."
           }
         }
       }
