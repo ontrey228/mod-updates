@@ -5,8 +5,8 @@
       "name": "NeroGram",
       "channels": {
         "stable": {
-          "enabled": true,
-          "minimumSupportedBuild": 59,
+          "enabled": false,
+          "minimumSupportedBuild": 0,
           "latest": {
             "build": 59,
             "version": "13.1",
