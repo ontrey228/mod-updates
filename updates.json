@@ -6,12 +6,12 @@
       "channels": {
         "stable": {
           "enabled": true,
-          "minimumSupportedBuild": 0,
+          "minimumSupportedBuild": 63,
           "latest": {
             "build": 63,
             "version": "13.1",
             "url": "https://t.me/iosmod",
-            "notes": "Тест рекомендации обновления."
+            "notes": "Тест обязательного обновления."
           }
         }
       }
