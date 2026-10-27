@@ -21,7 +21,7 @@
       "channels": {
         "stable": {
           "enabled": true,
-          "minimumSupportedBuild": 0,
+          "minimumSupportedBuild": 280,
           "latest": {
             "build": 279,
             "version": "2.78",
