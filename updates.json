@@ -21,12 +21,12 @@
       "channels": {
         "stable": {
           "enabled": true,
-          "minimumSupportedBuild": 279,
+          "minimumSupportedBuild": 0,
           "latest": {
             "build": 279,
             "version": "2.78",
             "url": "https://t.me/c/4396731379/56",
-            "notes": "Тест обязательного обновления: функции мода приостановлены на сборках ниже 279. Совместимая сборка 279 подготовлена."
+            "notes": "Актуальная сборка TikTok Premium — 279. Автоматические уведомления об обновлении мода."
           }
         }
       }
