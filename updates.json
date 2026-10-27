@@ -15,6 +15,21 @@
           }
         }
       }
+    },
+    "tiktok-premium-ios": {
+      "name": "TikTok Premium",
+      "channels": {
+        "stable": {
+          "enabled": true,
+          "minimumSupportedBuild": 0,
+          "latest": {
+            "build": 278,
+            "version": "2.78",
+            "url": "https://t.me/c/4396731379/56",
+            "notes": "Автоматические уведомления об обновлении TikTok Premium."
+          }
+        }
+      }
     }
   }
 }
