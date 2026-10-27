@@ -6,7 +6,7 @@
       "channels": {
         "stable": {
           "enabled": true,
-          "minimumSupportedBuild": 63,
+          "minimumSupportedBuild": 62,
           "latest": {
             "build": 63,
             "version": "13.1",
