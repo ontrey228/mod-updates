@@ -6,9 +6,9 @@
       "channels": {
         "stable": {
           "enabled": true,
-          "minimumSupportedBuild": 62,
+          "minimumSupportedBuild": 63,
           "latest": {
-            "build": 62,
+            "build": 63,
             "version": "13.1",
             "url": "https://t.me/c/4396731379/352",
             "notes": ""
