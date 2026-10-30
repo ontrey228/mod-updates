@@ -75,6 +75,21 @@
           }
         }
       }
+    },
+    "primetube-ios": {
+      "name": "PrimeTube",
+      "channels": {
+        "stable": {
+          "enabled": false,
+          "minimumSupportedBuild": 0,
+          "latest": {
+            "build": 402,
+            "version": "0.4.2",
+            "url": "https://t.me/iosmod",
+            "notes": "Приветствие iosmod, общая система обновлений и исправления совместимости Google Keychain при установке через Sideloadly."
+          }
+        }
+      }
     }
   }
 }
