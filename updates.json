@@ -30,6 +30,21 @@
           }
         }
       }
+    },
+    "discord-ios": {
+      "name": "Discord",
+      "channels": {
+        "stable": {
+          "enabled": false,
+          "minimumSupportedBuild": 0,
+          "latest": {
+            "build": 4,
+            "version": "351.0",
+            "url": "https://t.me/iosmod",
+            "notes": ""
+          }
+        }
+      }
     }
   }
 }
