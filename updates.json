@@ -60,6 +60,21 @@
           }
         }
       }
+    },
+    "spotify-pro-ios": {
+      "name": "Spotify Pro",
+      "channels": {
+        "stable": {
+          "enabled": false,
+          "minimumSupportedBuild": 0,
+          "latest": {
+            "build": 919002270,
+            "version": "1.3.6",
+            "url": "https://t.me/iosmod",
+            "notes": ""
+          }
+        }
+      }
     }
   }
 }
