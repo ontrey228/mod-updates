@@ -23,10 +23,10 @@
           "enabled": true,
           "minimumSupportedBuild": 0,
           "latest": {
-            "build": 281,
-            "version": "2.80",
-            "url": "https://t.me/c/4396731379/364",
-            "notes": ""
+            "build": 290,
+            "version": "2.89",
+            "url": "https://t.me/iosmoda/8",
+            "notes": "Перелистывание постов с наушников."
           }
         }
       }
